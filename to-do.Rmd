@@ -1,0 +1,17 @@
+---
+title: "To do"
+author: "The Nature Conservancy's LANDFIRE team"
+date: "8/11/2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    theme: journal
+---
+
+## Greetings
+Thanks Emma and Alex (and Maddie!) for your work on this.
+
+## To do
+
+{} finish migrating 2017 bird data from word doc to spreadsheet
