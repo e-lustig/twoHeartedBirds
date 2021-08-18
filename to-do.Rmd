@@ -15,3 +15,8 @@ Thanks Emma and Alex (and Maddie!) for your work on this.
 ## To do
 
 {} finish migrating 2017 bird data from word doc to spreadsheet
+
+{} Check Emma's uploaded data for errors!
+
+## Notes
+8/14/21 Emma: Added "0" for the distance for Stationary or Incidental groups. Do we want to edit the "location" column to make the format more consistent?
